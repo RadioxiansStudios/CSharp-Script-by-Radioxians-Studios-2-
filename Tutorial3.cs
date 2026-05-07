@@ -1,3 +1,5 @@
+// Under LICENSE: Radioxians SA LICENSE (Source Avaible)
+
 // © 2026 Radioxians Studios. All Rights Reserved.
 // v 1.0
 //  You can study and observe this script, but you cannot modify it, publish it, or sell it; it will violate the copyright (©) of Radioxians Studios.
