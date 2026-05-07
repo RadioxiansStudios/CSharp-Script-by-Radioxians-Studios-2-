@@ -1,4 +1,4 @@
-// Under LICENSE: Radioxians SA LICENSE (Source Avaible) (For more info, view the file LICENSE)
+// Under LICENSE: Radioxians SA LICENSE (Source Available) (For more info, view the file LICENSE)
 
 // © 2026 Radioxians Studios. All Rights Reserved.
 // v 1.0
